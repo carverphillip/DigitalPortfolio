@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-image: url(../clock tower.jfif);
+    background-image: url("clock tower.jfif");
     background-repeat: no-repeat;
     background-size: contain;
     height: 100vh;
