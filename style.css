@@ -4,7 +4,6 @@ body {
     background-size: contain;
     height: 100vh;
     background-attachment: fixed;
-    color: white;
 }
 
 .navbar{
@@ -28,7 +27,7 @@ a.nav-link:hover {
 
 .jumbotron {
     padding-top: 0;
-    background: black;;
+    background: black;
     
 }
 
@@ -68,7 +67,7 @@ color: #ffffff;
 }
 .bio {
     text-align: justify;
-    color: black;
+    color: white;
     font-family: 'Julius Sans One', sans-serif;
     font-size: 18px;
     opacity: .7;
