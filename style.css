@@ -1,0 +1,147 @@
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.navbar{
+    background: transparent;
+}
+
+.navbar-brand {
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+a.nav-link:hover {
+    color: gray;
+}
+
+.navbar a{
+    color: #ffffff;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.jumbotron {
+    padding-top: 0;
+    background: black;;
+    
+}
+
+.wrapper{
+    text-align: center;
+    margin-top: 250px;
+    /* border: 2px solid purple; */
+}
+
+.wrapper h1{
+margin: 0;
+font-family: 'Rock Salt', cursive;
+font-size: 5rem;
+color: #ffffff;
+}
+
+.wrapper p {
+    color: #ffffff;
+    font-family: "Julius Sans One", sans-serif;
+    font-size: 1.5rem;
+    margin-top: 30px;
+}
+
+.wrapper .viewportfoliobtn {
+    font-family: "Rock Salt", "Cursive";
+}
+
+
+.dvbiopic {
+    margin: 100px auto;
+}
+
+.dvbio,h1{
+    color: white;
+    font-family: 'Julius Sans One', sans-serif;
+
+}
+.bio {
+    text-align: justify;
+    color: white;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 18px;
+    opacity: .7;
+}
+
+
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.modal-btn {
+    background-color: gray;
+    color: white;
+    margin-top: 10px;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.btn:hover {
+    background-color: lightgray;
+}
+
+.resume {
+    margin: 0 auto;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+}
+
+.resume h2 {
+    font-size: 18px;
+}
+
+.resume-icon {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    font-family: "Julius Sans One", sans-serif;
+    font-size: 90px;
+}
+
+.resume-icon h2 {
+    font-size: 16px;
+}
+
+.contact {
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 500p;
+    font-family: 'Julius Sans One', sans-serif;
+    color: white;
+}
+
+.far {
+    color: white;
+}
+
+.fab {
+    margin: 20px 10px;
+    color: white;
+    font-size: 40px;
+}
+
+.fab:hover{
+    color: slategray;
+}
+
+footer {
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+    width: 100%;
+    color: white;
+    line-height: 1.0;
+}
